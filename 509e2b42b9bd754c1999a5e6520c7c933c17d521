@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65df58df_cfddbaba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-09-24T19:07:25Z",
+      "side": 1,
+      "message": "This commit looks way overkill",
+      "revId": "509e2b42b9bd754c1999a5e6520c7c933c17d521",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e665ee30_114bdf20",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-09-24T19:07:25Z",
+      "side": 1,
+      "message": "Do you really need Android.mk",
+      "revId": "509e2b42b9bd754c1999a5e6520c7c933c17d521",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
