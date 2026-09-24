@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e5563f6_79815912",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 37713
+      },
+      "writtenOn": "2026-09-24T19:35:56Z",
+      "side": 1,
+      "message": "Almost all of these used to be in dodge but due to path mismatch were removed, and were not added later\n\nAfter adding I have observed better ultrawide image quality and front camera quality, along with removed banding in preview and 30FPS video recording scenarios",
+      "parentUuid": "65df58df_cfddbaba",
+      "revId": "509e2b42b9bd754c1999a5e6520c7c933c17d521",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e665ee30_114bdf20",
@@ -31,6 +49,24 @@
       "writtenOn": "2026-09-24T19:07:25Z",
       "side": 1,
       "message": "Do you really need Android.mk",
+      "revId": "509e2b42b9bd754c1999a5e6520c7c933c17d521",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "51de0e58_28128f44",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 37713
+      },
+      "writtenOn": "2026-09-24T19:35:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e665ee30_114bdf20",
       "revId": "509e2b42b9bd754c1999a5e6520c7c933c17d521",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
