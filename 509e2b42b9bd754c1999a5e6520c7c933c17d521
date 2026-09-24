@@ -54,6 +54,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "499cf833_5fba227d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 37713
+      },
+      "writtenOn": "2026-09-24T19:49:29Z",
+      "side": 1,
+      "message": "You\u0027re right about that, I mainly noticed newer oplus sm8750 devices like volkswagen using the newly added ICP firmware so I added them myself. And apologies for the mass-sorting, luk told me to run the sort and amend the patchset",
+      "parentUuid": "0b81b2bf_b95a71c9",
+      "revId": "509e2b42b9bd754c1999a5e6520c7c933c17d521",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e665ee30_114bdf20",
