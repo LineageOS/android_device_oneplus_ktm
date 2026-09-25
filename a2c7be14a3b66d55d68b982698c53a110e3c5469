@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e0f2656_534e2f67",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-25T09:44:57Z",
+      "side": 1,
+      "message": "This is adding more than just camera blobs. It\u0027s shuffling blobs around, even unrelated with camera. Please use sort-blobs-list script in a separate change.\n\nAlso, for the record, until branches really diverge, you don\u0027t need to push two changes to gerrit for the two different branches. You merge one of them and then fast-forward to the other branch.",
+      "revId": "a2c7be14a3b66d55d68b982698c53a110e3c5469",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
