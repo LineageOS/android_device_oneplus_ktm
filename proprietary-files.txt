@@ -1481,6 +1481,15 @@ odm/etc/PanelChaplin/Dark_Eye_Protect_Vivid.txt
 odm/etc/PanelChaplin/panelchaplin
 odm/etc/vintf/manifest/vintf_manifext_aidl_panelchaplin.xml
 
+# Dolby Vision
+odm/bin/hw/dvs-aidl-service
+odm/etc/dolby/display/dolby_vision.cfg
+odm/etc/dolby/dolby_vision.cfg
+odm/etc/init/dvs-aidl-service.rc
+odm/etc/vintf/manifest/dvs-aidl-service.xml
+odm/etc/media_codecs_dolby_vision.xml:vendor/etc/media_codecs_dolby_vision.xml
+odm/lib64/vendor.dolby.dvs-V1-ndk.so
+
 # Face unlock
 odm/lib64/libstfaceunlockocl_uff.so;FIX_SONAME
 
