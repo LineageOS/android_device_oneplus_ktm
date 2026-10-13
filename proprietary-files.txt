@@ -1504,7 +1504,10 @@ odm/etc/PanelChaplin/Dark_Eye_Protect_LsRGB.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_Nature.txt
 odm/etc/PanelChaplin/Dark_Eye_Protect_Vivid.txt
 odm/etc/PanelChaplin/panelchaplin
+
+# Display features
 odm/etc/vintf/manifest/vintf_manifext_aidl_panelchaplin.xml
+odm/lib64/libPanelChaplin.so
 
 # Face unlock
 odm/lib64/libstfaceunlockocl_uff.so;FIX_SONAME
