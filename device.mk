@@ -45,9 +45,6 @@ PRODUCT_PACKAGES += \
     OPlusSettingsResTarget \
     OPlusSystemUIResTarget
 
-# Power
-$(call soong_config_set,qtipower,mode_ext_lib,power-ext-oplus)
-
 # Recovery
 PRODUCT_PACKAGES += \
     hbp-setup 
