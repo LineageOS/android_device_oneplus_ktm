@@ -1618,6 +1618,7 @@ odm/lib64/tms-utils.so
 # Touch Service (HBP5)
 odm/bin/hw/vendor-oplus-hardware-touch-V2-hbp5-service
 odm/etc/init/vendor-oplus-hardware-touch-V2-hbp5-service.rc
+odm/etc/vintf/manifest/manifest_touch_aidl.xml
 
 # Touchscreen firmware
 odm/firmware/tp/ktm/GloveDetect.tflite
