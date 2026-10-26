@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "35967d4c_ad841595",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-10-26T08:46:07Z",
+      "side": 1,
+      "message": "I think you\u0027re missing https://review.lineageos.org/q/I37a0f0f39e9397458faea06f21c05c3582027c58 before this change.",
+      "revId": "a6d3ee67978f318f277a50f805502a3e237bf464",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
