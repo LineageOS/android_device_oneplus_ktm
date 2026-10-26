@@ -16,6 +16,24 @@
       "message": "Wrong commit metadata.",
       "revId": "336b04b9bd54f2156a17ffeebd49bac6536668fa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f04f3d6_8b188ff9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 37713
+      },
+      "writtenOn": "2026-10-26T11:19:59Z",
+      "side": 1,
+      "message": "Updated commit metadata",
+      "parentUuid": "883a3391_f97c702f",
+      "revId": "336b04b9bd54f2156a17ffeebd49bac6536668fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
