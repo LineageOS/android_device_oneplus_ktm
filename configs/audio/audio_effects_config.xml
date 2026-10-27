@@ -22,7 +22,7 @@ SPDX-License-Identifier: BSD-3-Clause-Clear
         <!-- OPLUS_BUG_STABILITY -->
         <!-- OPLUS SPATIALIZER-->
         <!-- Liang.Xu@MULTIMEDIA.AUDIOSERVER.EFFECT, 2023/04/18, add for oplus spatializer -->
-        <library name="spatializersw" path="libOplusSpatializerAidl_DKY.so"/>
+        <library name="spatializersw" path="libOplusSpatializerAidl.so"/>
         <!-- OPLUS SPATIALIZER END -->
     </libraries>
 
