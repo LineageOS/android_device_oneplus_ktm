@@ -102,7 +102,7 @@ odm/etc/spatializer/SPK_MOVIE_lvl6.bin
 odm/etc/spatializer/SPK_MOVIE_lvl7.bin
 odm/etc/spatializer/SPK_MOVIE_lvl8.bin
 odm/etc/spatializer/SPK_MOVIE_lvl9.bin
-odm/lib64/soundfx/libOplusSpatializerAidl.so
+odm/lib64/soundfx/libOplusSpatializerAidl_DKY.so
 odm/lib64/libMNN.so
 odm/lib64/liboplus_audiox.so
 
