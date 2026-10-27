@@ -803,7 +803,6 @@ odm/etc/vintf/manifest/manifest_oplus_camera_rfi.xml
 odm/etc/vintf/manifest/manifest_oplus_cammidasservice_aidl.xml
 odm/etc/vintf/manifest/manifest_oplus_sendextcamcmd.xml
 odm/etc/vintf/manifest/vendor.oplus.camera.aon-impl.xml
-odm/framework/androidx.camera.extensions.impl.fake.jar
 odm/lib64/camera/components/com.oplus.node.depth.so
 odm/lib64/camera/components/com.oplus.node.evaof.so
 odm/lib64/camera/components/com.oplus.node.mvgsat.so
